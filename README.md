@@ -15,8 +15,8 @@
 # 📊 GitHub Stats:
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=TejasVarute&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true">
-<img src="https://nirzak-streak-stats.vercel.app/?user=TejasVarute&theme=one_dark_pro&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVarute&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img src="https://nirzak-streak-stats.vercel.app/?user=TejasVarute&theme=one_dark_pro&hide_border=true">
 </div>
 
 ## 🏆 GitHub Trophies
